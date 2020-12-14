@@ -1,2 +1,2 @@
 # fauzan
-klasifikasi
+klasifikasi data Kepribadian dengan Algoritma C45
